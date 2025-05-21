@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+chatgpt-clone/node_modules
 dist
 dist-ssr
 *.local
